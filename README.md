@@ -1,2 +1,2 @@
 # quickTestRepo
-a test
+A test
