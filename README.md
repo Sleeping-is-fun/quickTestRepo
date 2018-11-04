@@ -1,2 +1,2 @@
-# quicktestrepo
+# quickTestRepo
 a test
